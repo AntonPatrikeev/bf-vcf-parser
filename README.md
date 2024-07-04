@@ -1,2 +1,2 @@
 # VCF parser
-This repo contains a Pytho-based tool that parses a VCF file and generates summary report
+This repo contains a Python-based tool that parses a VCF file and generates summary report
